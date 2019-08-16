@@ -16,7 +16,8 @@
 ! Each Processor works on a sub grid and then sends its
 ! boundaries to neighbours
 !
-!  John Urbanic, PSC 2014
+!  Problem designed by: John Urbanic, PSC 2014
+!  Problem Solved by  : Masrul Huda 
 !
 !*************************************************
 program mpilaplace
