@@ -1,0 +1,5 @@
+compiler:PGI
+
+Command:
+
+mpifort -acc -O3 laplace_hybrid_final.f90 -o hybrid
